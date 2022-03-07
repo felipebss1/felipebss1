@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, this is [Bruno](https://www.linkedin.com/in/bruno-soares-0ba58a44/)! 🤓
 
-<!--
-**felipebss1/felipebss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+<p>🧑‍🎓I'm a Front-End Web Developer Student</p>
+<p>📖Currently focused in HTML, CSS and JavaScript</p>
+<p>🌱I'm on track for learning more about frameworks and libs</p>
+<!--<p>✉️  You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!</p>
+<p>📄  You can check my Resume for more details about work experience.</p>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
+  <img align="center" alt="vscode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+</div>
+<br><br>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=felipebss1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebss1&layout=compact&langs_count=7&theme=algolia"/>
+</div>
