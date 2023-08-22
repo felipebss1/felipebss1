@@ -1,4 +1,4 @@
-# Hi there, this is [Bruno](https://www.linkedin.com/in/bruno-soares-0ba58a44/)! 🤓
+# Hi there, this is [Bruno](https://www.linkedin.com/in/brunofsoares/)! 🤓
 
 ### 👨🏻‍💻 About Me
 
